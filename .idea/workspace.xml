@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e70ef90d-3885-4d4d-a4e8-3be391f7c0af" name="Changes" comment="pom modificado" />
+    <list default="true" id="e70ef90d-3885-4d4d-a4e8-3be391f7c0af" name="Changes" comment="pom modificado">
+      <change afterPath="$PROJECT_DIR$/src/test/java/mainTest/mainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Dockerfile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696933418829</updated>
       <workItem from="1696933420080" duration="3000" />
-      <workItem from="1697538309945" duration="846000" />
+      <workItem from="1697538309945" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="pom modificado">
       <option name="closed" value="true" />
@@ -70,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697538616104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pom modificado">
+      <option name="closed" value="true" />
+      <created>1697539164926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697539164926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
