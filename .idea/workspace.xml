@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="holamundo" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e70ef90d-3885-4d4d-a4e8-3be391f7c0af" name="Changes" comment="pom modificado">
-      <change afterPath="$PROJECT_DIR$/src/manifest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e70ef90d-3885-4d4d-a4e8-3be391f7c0af" name="Changes" comment="pom modificado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,26 +39,36 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/guillermorodriguez/dev/IntellijProyects/holamundo/src/manifest.txt",
+    "last_opened_file_path": "/home/guillermorodriguez/dev/IntellijProyects/holamundo/META-INF",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/home/guillermorodriguez/dev/IntellijProyects/holaMundo/src/main/java/org/iesvdm/Main.java",
     "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.holamundo.jar (1)">
+    <configuration name="holamundo.jar (1)" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/holamundo_jar/holamundo.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
     <configuration name="holamundo.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/holamundo/holamundo.jar" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JAR Application.holamundo.jar (1)" />
+      <item itemvalue="JAR Application.holamundo.jar" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JAR Application.holamundo.jar" />
@@ -79,7 +91,7 @@
       <workItem from="1698750693450" duration="1644000" />
       <workItem from="1698752544762" duration="590000" />
       <workItem from="1698922265545" duration="27000" />
-      <workItem from="1699355205101" duration="401000" />
+      <workItem from="1699355205101" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="pom modificado">
       <option name="closed" value="true" />
@@ -145,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698752849527</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="pom modificado">
+      <option name="closed" value="true" />
+      <created>1699355891323</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699355891323</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

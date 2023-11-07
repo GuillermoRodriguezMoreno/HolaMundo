@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="holamundo">
-    <output-path>$PROJECT_DIR$/out/artifacts/holamundo</output-path>
-    <root id="archive" name="holamundo.jar">
-      <element id="file-copy" path="$PROJECT_DIR$/src/manifest.txt" />
-    </root>
-  </artifact>
-</component>
