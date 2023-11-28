@@ -29,6 +29,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GuillermoRodriguezMoreno"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="66baf144-a7af-4087-b094-3a3f84fc9f78" />
+        <option name="url" value="https://github.com/GuillermoRodriguezMoreno/HolaMundo.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -119,7 +133,7 @@
       <workItem from="1699607977243" duration="91000" />
       <workItem from="1700127921125" duration="1629000" />
       <workItem from="1700478709336" duration="53000" />
-      <workItem from="1701169434366" duration="1664000" />
+      <workItem from="1701169434366" duration="2606000" />
     </task>
     <task id="LOCAL-00001" summary="pom modificado">
       <option name="closed" value="true" />
@@ -241,7 +255,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701170993928</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="push para activar jenkins">
+      <option name="closed" value="true" />
+      <created>1701171163503</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701171163503</updated>
+    </task>
+    <task id="LOCAL-00017" summary="push para activar jenkins">
+      <option name="closed" value="true" />
+      <created>1701171283604</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1701171283604</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
