@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e70ef90d-3885-4d4d-a4e8-3be391f7c0af" name="Changes" comment="push para activar jenkins">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesvdm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iesvdm/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e70ef90d-3885-4d4d-a4e8-3be391f7c0af" name="Changes" comment="push para activar jenkins" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +132,7 @@
       <workItem from="1700478709336" duration="53000" />
       <workItem from="1701169434366" duration="2957000" />
       <workItem from="1701242751013" duration="24000" />
-      <workItem from="1701774931514" duration="41000" />
+      <workItem from="1701774931514" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="pom modificado">
       <option name="closed" value="true" />
@@ -305,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701172394795</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="push para activar jenkins">
+      <option name="closed" value="true" />
+      <created>1701774989835</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701774989835</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
